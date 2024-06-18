@@ -4,7 +4,3 @@ $(function () {
     console.log('scrollイベントが発生しました。');
   });
 });
-// $(function () {
-  
-// });
-// });
